@@ -146,7 +146,7 @@ Room_51 = Basement51("Room 51","A hidden Room with a heavy iron door.")
 
 ALL_ROOMS = {
     "toilet_cellar": toilet_cellar,
-    "Room 51"      : Room_51
+    "Room_51"      : Room_51
     # Add your room key-value pairs here:
     # "my_room_key": my_room
 }
